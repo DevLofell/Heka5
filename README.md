@@ -10,7 +10,7 @@
 ## My Stats
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heka5&hide=java,html,ShaderLab&theme=radical&line_height=50" alt="Anurag's github stats" />  &nbsp;  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heka5&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heka5&hide=java,html,ShaderLab&theme=onedark&line_height=50" alt="Anurag's github stats" />  &nbsp;  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heka5&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
 </p> 
 
 
